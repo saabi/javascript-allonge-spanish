@@ -16,7 +16,7 @@ Pueden:
 ## ¿Cómo contribuyo?
 
 1. Haz un fork al proyecto
-2. Lee (este issue)[https://github.com/javichito/javascript-allonge-spanish/issues/1] para saber qué secciones aun faltan traducir.
+2. Lee [este issue](https://github.com/javichito/javascript-allonge-spanish/issues/1) para saber qué secciones aun faltan traducir.
 3. Comenta en el issue para informar a los demás sobre qué sección vas a traducir.
 4. Haz un pull request cuando termines de traducir y menciónala en el issue.
 
