@@ -1,9 +1,9 @@
-# A Pull of the Lever: Prefaces
+# Jalando la palanca: Prefacios
 
 ![Caffe Molinari](images/caffemolinari.jpg)
 
-> "Café Allongé, also called Espresso Luongo, is a drink midway between an Espresso and Americano in strength. There are two different ways to make it. The first, and the one I prefer, is to add a small amount of hot water to a double or quadruple Espresso Ristretto. Like adding a splash of water to whiskey, the small dilution releases more of the complex flavours in the mouth.
+> "Café Allongé, también llamado Espresso Luongo, es una bebida intermedia entre un Espresso y un Americano. Existen dos formas distintas de prepararlo. La primera, y favorita, es añadir una pequeña cantidad de agua caliente a un Espresso Ristretto doble o cuátruple. Similar a añadir agua al whisky, la pequeña dilución desencadena sabores más complejos en la boca."
 >
-> "The second way is to pull an extra long double shot of Espresso. This achieves approximately the same ratio of oils to water as the dilution method, but also releases a different mix of flavours due to the longer extraction. Some complain that the long pull is more bitter and detracts from the best character of the coffee, others feel it releases even more complexity.
+> "La segunda forma es jalar un shot doble extra largo de Espresso. Esto logra aproximadamente la misma proporción de aceites en el agua al igual que el método de la dilución, pero también desencadena un conjunto diferente de sabores debido a la extracción más prolongada. Algunos se quejan de que este procedimiento produce un café más amargo y le resta valor a la mejor característica del café, otros creen que desencadena aun una mayor complejidad."
 >
-> "The important thing is that neither method of preparation should use so much water as to result in a sickly, pale ghost of Espresso. Moderation in all things." 
+> "Lo importante es que ninguno de los dos métodos de preparación deberían usar demasiada agua como para producir una pálida versión del Espresso. Moderación en todas las cosas."
