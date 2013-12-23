@@ -1,6 +1,6 @@
 ## ¿Por qué JavaScript Allongé?
 
-*JavaScript Allongé* resuelve dos importantes problemas para el ambicioso programador de JavaScript. Primero, *JavaScript Allongé* otorga las herramientas para lidiar con los *bugs*, obstáculos, casos extremos y otras potenciales dificultades.
+*JavaScript Allongé* resuelve dos importantes problemas para el ambicioso programador de JavaScript. Primero, *JavaScript Allongé* otorga las herramientas para lidiar con *bugs*, obstáculos, casos extremos y otras potenciales dificultades de JavaScript.
 
 Existen suficientes buenos caminos para escribir programas en JavaScript. Si los sigues sin cambios o desviaciones, estarás satisfecho. Desafortunadamente, el *software* es una cosa compleja, lleno de interacciones y efectos secundarios. Dos consejos perfectamente razonables cuando son tomados independientemente pueden presentar conflictos entre ellos si son tomados simultáneamente. Un método puede parecer el adecuado al inicio de un proyecto, pero necesitar revisión cuando son descubiertos nuevos requerimientos.
 
