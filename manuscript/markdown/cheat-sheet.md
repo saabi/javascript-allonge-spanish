@@ -1,79 +1,79 @@
 # The Recipe Cheat Sheet
 
-In the recipes, you may see one or more of the following JavaScript constructs being used before being fully explained in the text. Here're some brief explanations to tide you over:
+En las recetas, puede que veas una o más de las siguientes construcciones siendo usadas antes de ser completamente explicadas en el texto. Aquí hay algunas explicaciones breves para sacarte del apuro:
 
-### apply and call
+### apply y call
 
-Functions are applied with `()`. But they also have *methods* for applying them to arguments. `.call` and `.apply` are explained when we discuss [function contexts](#context), but here are some examples:
+Las funciones son llamadas con `()`. Pero también tienen *métodos* que permiten llamarlas con argumentos. `.call` y `.apply` van a ser explicadas cuando hablemos de [contextos de funciones](#context), pero aquí hay algunos ejemplos:
 
     function plus (a, b) {
       return a + b
     }
-    
-    plus(2, 3) 
+
+    plus(2, 3)
       //=> 5
-      
+
     plus.call(this, 2, 3)
       //=> 5
-      
+
     plus.apply(this, [2, 3])
       //=> 5
 
 ### slice
 
-Arrays have a `.slice` method. The function can always be found at `Array.prototype.slice`. It works like this:
+Los arreglos tienen un método `.slice`. La función siempre puede ser encontrada en `Array.prototype.slice`. Funciona de la siguiente manera:
 
     [1, 2, 3, 4, 5].slice(0)
       //=> [1, 2, 3, 4, 5]
-      
+
     [1, 2, 3, 4, 5].slice(1)
       //=> [2, 3, 4, 5]
-      
+
     [1, 2, 3, 4, 5].slice(1, 4)
       //=> [2, 3, 4]
 
-Note that `slice` always creates a new array, so `.slice(0)` makes a copy of an array. The [arguments](#arguments-again) pseudo-variable is not an array, but you can use `.slice` with it like this to get an array of all or some of the arguments:
+Date cuenta de que `slice` siempre crea un nuevo arreglo, de manera que `.slice(0)` hace una copia del arreglo. La pseudo-variable [arguments](#arguments-again) no es un arreglo, pero puedes usar `.slice` para obtener todos o parte de los argumentos en un arreglo:
 
     Array.prototype.slice.call(arguments, 0)
       //=> returns the arguments in an array.
-      
+
     function butFirst () {
       return Array.prototype.slice.call(arguments, 1)
     }
-    
+
     butFirst('a', 'b', 'c', 'd')
       //=> [ 'b', 'c', 'd' ]
-      
-For simplicity and as a small speed improvement, `slice` is usually bound to a local variable:
+
+Por simplicidad y una pequeña mejora de rapidez, `slice` usualmente es enlazado a una variable local:
 
     var __slice = Array.prototype.slice;
-      
+
     function butFirst () {
       return __slice.call(arguments, 1)
     }
-    
-Or even:
+
+O incluso:
 
     var __slice = Array.prototype.slice;
-    
+
     function slice (list, from, to) {
       return __slice.call(list, from, to)
     }
-      
+
     function butFirst () {
       return slice(arguments, 1)
     }
-    
+
 ### concat
 
-Arrays have another useful method, `.concat`. Concat returns an array created by concatenating the receiver with its argument:
+Los arreglos cuentan con otro método útil, `.concat`. Concat devuelve un arreglo creado por la concatenación del receptor con su argumento:
 
     [1, 2, 3].concat([2, 1])
       //=> [1, 2, 3, 2, 1]
-      
-### function lengths
 
-Functions have a `.length` property that counts the number of arguments declared:
+### Propiedad length de una Función
+
+Las funciones tienen una propiedad `.length` que cuenta el número de argumentos declarado:
 
     function (a, b, c) { return a + b + c }.length
       //=> 3
