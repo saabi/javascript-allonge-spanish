@@ -1,11 +1,13 @@
 # JavaScript Allongé en Español
 ## ¿Qué es esto?
 
-Este repositorio es una iniciativa para realizar la traducción completa del libro [JavaScript Allongé](https://leanpub.com/javascript-allonge) al español. El 1ro de Octubre del 2013 el autor del libro [Reginald Braithwaite](https://github.com/raganwald) ha decidido liberar al libro de su licencia comercial y ponerla bajo [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.es), además de distribuirla gratuitamente. En pocas palabras ha permitido a cualquier persona hacer cualquiera de las siguientes cosas:
+Este repositorio es una iniciativa para realizar la traducción completa del libro [JavaScript Allongé](https://leanpub.com/javascript-allonge) al español. 
 
-* Copiar, distribuir y compartir el libro
-* Modificar/Adaptar el contenido del libro
-* Hacer uso comercial del libro
+Esto porque el 1 de octubre del 2013 el autor [Reginald Braithwaite](https://github.com/raganwald) decidió liberar su libro de una licencia comercial y ponerla bajo [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.es), además de distribuirla gratuitamente. En pocas palabras, ha permitido a cualquier persona hacer cualquiera de las siguientes cosas:
+
+* Copiar, distribuir y compartir el libro.
+* Modificar/adaptar el contenido del libro.
+* Hacer uso comercial del libro.
 
 Pueden:
 
@@ -15,10 +17,10 @@ Pueden:
 
 ## ¿Cómo contribuyo?
 
-1. Haz un fork al proyecto
-2. Lee [este issue](https://github.com/javichito/javascript-allonge-spanish/issues/1) para saber qué secciones aun faltan traducir.
+1. Haz un fork al proyecto.
+2. Lee [este issue](https://github.com/javichito/javascript-allonge-spanish/issues/1) para saber qué secciones aún faltan traducir.
 3. Comenta en el issue para informar a los demás sobre qué sección vas a traducir.
-4. Haz un pull request cuando termines de traducir y menciónala en el issue.
+4. Haz un pull request cuando termines de traducir y menciónalo en el issue.
 
 ## Licencia
 

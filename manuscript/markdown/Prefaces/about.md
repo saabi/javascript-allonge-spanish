@@ -1,23 +1,23 @@
-## Why JavaScript Allongé?
+## ¿Por qué JavaScript Allongé?
 
-*JavaScript Allongé* solves two important problems for the ambitious JavaScript programmer. First, *JavaScript Allongé* gives you the tools to deal with JavaScript bugs, hitches, edge cases, and other potential pitfalls.
+*JavaScript Allongé* resuelve dos importantes problemas para el ambicioso programador de JavaScript. Primero, *JavaScript Allongé* otorga las herramientas para lidiar con *bugs*, obstáculos, casos extremos y otras potenciales dificultades de JavaScript.
 
-There are plenty of good directions for how to write JavaScript programs. If you follow them without alteration or deviation, you will be satisfied. Unfortunately, software is a complex thing, full of interactions and side-effects. Two perfectly reasonable pieces of advice when taken separately may conflict with each other when taken together. An approach may seem sound at the outset of a project, but need to be revised when new requirements are discovered.
+Existen suficientes buenos caminos para escribir programas en JavaScript. Si los sigues sin cambios o desviaciones, estarás satisfecho. Desafortunadamente, el *software* es una cosa compleja, lleno de interacciones y efectos secundarios. Dos consejos perfectamente razonables cuando son tomados independientemente pueden presentar conflictos entre ellos si son tomados simultáneamente. Un método puede parecer el adecuado al inicio de un proyecto, pero necesitar revisión cuando son descubiertos nuevos requerimientos.
 
-When you "leave the path" of the directions, you discover their limitations. In order to solve the problems that occur at the edges, in order to adapt and deal with changes, in order to refactor and rewrite as needed, you need to understand the underlying principles of the JavaScript programming language in detail.
+Es en el momento que "dejas el *sendero*" de los caminos o directrices cuando descubres sus limitaciones. Para resolver problemas que ocurren en situaciones extremas, para adaptarse y lidiar con cambios, para hacer *refactoring* y reescribir acordemente, necesitas entender los principios fundamentales del lenguaje de programación JavaScript en detalle.
 
-You need to understand *why* the directions work so that you can understand *how* to modify them to work properly at or beyond their original limitations. That's where *JavaScript Allongé* comes in.
+Necesitas entender *por qué* esos caminos o directrices funcionan para que así puedas entender *cómo* modificarlas de modo que funcionen adecuadamente dentro de o más allá de sus limitaciones. Ahí es donde *JavaScript Allongé* entra a tallar.
 
-*JavaScript Allongé* is a book about programming with functions, because [JavaScript] is a programming language built on flexible and powerful functions. *JavaScript Allongé* begins at the beginning, with values and expressions, and builds from there to discuss types, identity, functions, closures, scopes, and many more subjects up to working with classes and instances. In each case, *JavaScript Allongé* takes care to explain exactly how things work so that when you encounter a problem, you'll know exactly what is happening and how to fix it.
+*JavaScript Allongé* es un libro acerca de programación con funciones porque [JavaScript] es un lenguaje de programación cimentado sobre flexibles y poderosas funciones. *JavaScript Allongé* inicia con el inicio, con valores y expresiones; y construye desde ahí para discutir tipos de data, identidad, funciones, clausuras, alcances y muchos temas más relacionados al trabajo con clases e instancias. En cada caso, *JavaScript Allongé* se encarga de explicar exactamente cómo funcionan las cosas de tal manera que cuando te sorprenda un problema sabrás exactamente qué está sucediendo y cómo arreglarlo.
 
-Second, *JavaScript Allongé* provides recipes for using functions to write software that is simpler, cleaner, and less complicated than alternative approaches that are object-centric or code-centric. JavaScript idioms like function combinators and decorators leverage JavaScript's power to make code easier to read, modify, debug and refactor, thus *avoiding* problems before they happen.
+Segundo, *JavaScript Allongé* proporciona recetas para usar funciones que permitan escribir *software* que es más simple, más ordenado, limpio y menos complicado que otros enfoques alternativos que son *object-centric* o centrados en el código. Los *idioms* (modismos) en JavaScript, como combinadores de funciones o *decorators*, aprovechan el poder de JavaScript para hacer el código más fácil de leer, modificar, hacer *debugging* y *defactoring*, así *evitando* problemas antes de que ocurran.
 
-*JavaScript Allongé* teaches you how to handle complex code, and it also teaches you how to simplify code without dumbing it down. As a result, *JavaScript Allongé* is a rich read releasing many of JavaScript's subtleties, much like the Café Allongé beloved by coffee enthusiasts everywhere.
+*JavaScript Allongé* te enseña cómo manejar código complejo y también te enseña cómo simplificar código sin embrutecerlo. Como resultado, *JavaScript Allongé* es una rica lectura que revela muchas de las sutilezas de JavaScript, muy parecido al café Allongé querido por entusiastas del café en todos lados.
 
 [JavaScript]: https://developer.mozilla.org/en-US/docs/JavaScript
 
-### how the book is organized
+### Cómo está organizado el libro
 
-*JavaScript Allongé* introduces new aspects of programming with functions in each chapter, explaining exactly how JavaScript works. Code examples within each chapter are small and emphasize exposition rather than serving as patterns for everyday use.
+*JavaScript Allongé* introduce nuevos aspectos de la programación con funciones en cada capítulo, explicando exactamente cómo JavaScript funciona. Los ejemplos con código de cada capítulo son pequeños y enfatizan la exposición en lugar de servir como patrones de uso diario.
 
-Following each chapter are a series of recipes designed to show the application of the chapters ideas in practical form. While the content of each chapter builds naturally on what was discussed in the previous chapter, the recipes may draw upon any aspect of the JavaScript programming language.
+Siguiendo a cada capítulo hay una serie de recetas diseñadas para mostrar la aplicación de las ideas de los capítulos en una forma práctica. Mientras el contenido de cada capítulo se construye naturalmente sobre lo que fue discutido en el capítulo pasado, las recetas pueden referirse a cualquier aspecto del lenguaje de programación JavaScript.
